@@ -1,4 +1,5 @@
 {
+  "name": "banana-cursor",
   "dependencies": {
     "cbmp": "^1.1.1"
   },
