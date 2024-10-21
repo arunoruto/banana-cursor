@@ -1,5 +1,6 @@
 {
   "name": "banana-cursor",
+  "version": "2.0.0",
   "dependencies": {
     "cbmp": "^1.1.1"
   },
